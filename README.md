@@ -4,8 +4,6 @@
 - 👀 She is passionate about leveraging technology to streamline processes and extract meaningful insights from data.
 - Fadiles's interests span across Python, SQL, Data Analysis, PowerBI, and Excel.
 - She enjoys exploring new tools and techniques to optimize workflows and drive business outcomes.
-- 
-- 📫 Let's connect!
 - I'm always open to collaborations and discussions on all things data and tech.
 
 
